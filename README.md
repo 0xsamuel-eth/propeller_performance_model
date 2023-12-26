@@ -1,2 +1,2 @@
-# propeller_performance_model
+# Propeller Performance Model
 An AI model for predicting propeller performance from propeller geometries
